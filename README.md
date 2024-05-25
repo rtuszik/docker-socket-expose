@@ -19,5 +19,5 @@ This bash script configures Docker to listen on both a TCP port and a Unix socke
 To download and execute the script in one step, use the following command:
 
 ```sh
-wget -O docker_socket_expose.sh "ENTER LINK" && sh docker_socket_expose.sh
+wget -O docker_socket_expose.sh "https://raw.githubusercontent.com/rtuszik/docker-socket-expose/main/docker_socket_expose.sh" && sh docker_socket_expose.sh
 ```
